@@ -5,7 +5,7 @@ This script is supposed to run on a Raspberry Pi. It features two different inpu
 
 ## Features
 * Push Notifications make use of [PushOver](https://pushover.net/)
-* Configuration through variables in the header section
+* Configuration through a separate Python config file
 * Strings are completely customizable – Standard language is German
 * Doorbell(s) are connected through two customizable high active (high = pressed) GPIO inputs on the Raspberry Pi
 * Push Notifications are triggered by hardware interrupts
